@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.41d0be24.css","mappings":"AAAA,GACI,oBAAqB,CAErB,WAEJ,CACA,MAJI,wBAMJ","sources":["Navbar.css"],"sourcesContent":["li{\r\n    display: inline-block;\r\n    background-color:paleturquoise;\r\n    margin: 10px;\r\n\r\n}\r\nul{\r\n    background-color: paleturquoise;\r\n}"],"names":[],"sourceRoot":""}
