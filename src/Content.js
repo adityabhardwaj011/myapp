@@ -4,7 +4,7 @@ import axios from 'axios'
 
 export default function Content() {
     const [products,setproducts] = useState([])
-    const url = "http://localhost:8080/"
+    const url = "https://backend-uw1f.onrender.com"
     const getData = async () => {
         const response = await axios.get(url)
         setproducts(response.data)
